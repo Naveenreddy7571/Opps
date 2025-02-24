@@ -1,4 +1,4 @@
-package Staticc;
+package Static;
 /* 
  * static is a special type of non acess sepecifier which can be used before a variable and methods and classes 
  * 

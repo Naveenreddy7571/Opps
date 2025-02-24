@@ -1,4 +1,4 @@
-package Staticc;
+package Static;
 
 /*
  *              STATIC BLOCK
