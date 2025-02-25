@@ -20,10 +20,6 @@ package Static;
  class Demo {
     int a;
     static int b;
-
-
-
-
     public Demo(int a) {
         this.a = a;
         System.out.println("constructor");
